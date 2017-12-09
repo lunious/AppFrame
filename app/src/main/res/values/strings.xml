@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppLunious</string>
+    <string name="press_again_exit">再按一次退出程序</string>
+    <string name="first">首页</string>
+    <string name="second">资质查询</string>
+    <string name="third">收藏</string>
+    <string name="four">招标结果</string>
+    <string name="five">我</string>
+</resources>
